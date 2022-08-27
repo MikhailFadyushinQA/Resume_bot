@@ -4,7 +4,7 @@ import telebot
 import os
 from telebot import types
 
-TOKEN = '5166359900:AAGxib3Y-sSaVzITSWsjB1lzGr3vdjmNR2o'
+TOKEN = 'вставить токен'
 
 bot = telebot.TeleBot(TOKEN)
 
